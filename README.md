@@ -1,4 +1,4 @@
-# Apredendo Java
+# Aprendendo Java
 
 ## Parte 1: Entrada e Saída de dados
 <details>
