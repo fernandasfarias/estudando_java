@@ -1,23 +1,19 @@
 # Apredendo a linguagem de programação Java
 
-## Parte 1: Java Básico
-- <strong>Questão 1 (Idade em dias)</strong>: Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e
-mostre-a expressa em dias. Leve em consideração o ano com 365 dias e o mês com 30.
-(Ex: 3 anos, 2 meses e 15 dias = 1170 dias.)
-
-- <strong>Questão 2 (Média)</strong>: Fazer um programa que imprima a média aritmética dos números 8,9 e 7. A média dos números 4, 5 e 6. A soma das duas médias. A média das médias.
-
-- <strong>Questão 3 (Saldo com reajuste): </strong>Informar um saldo e imprimir o saldo com reajuste de 1%.
-
-- <strong>Questão 4 (valor peças): </strong>Escrever um algoritmo que lê:
-    - a porcentagem do IPI a ser acrescido no valor das peças
-    - o código da peça 1, valor unitário da peça 1, quantidade de peças 1
-    - o código da peça 2, valor unitário da peça 2, quantidade de peças 2
-    O algoritmo deve calcular o valor total a ser pago e apresentar o resultado.
-    
-    Fórmula : (valor1 * quant1 + valor2 * quant2) * (IPI/100 + 1)
-
-- <strong>Questão 5 (SalarioMinimo): </strong> Crie um algoritmo que leia o valor do salário mínimo e o valor do salário de um usuário, calcule a quantidade de salários mínimos esse usuário ganha e imprima o resultado.
-(1SM=R$788,00)
-
-- <strong>Questão 6 (AntecessorSucessor): </strong> Desenvolva um algoritmo em Java que leia um número inteiro e imprima o seu antecessor e seu sucessor.
+## Parte 1: Entrada e Saída de dados
+<details>
+    <summary>Entrada e saída de dados</summary>
+    <ul>
+        <li>Questão 1 (Idade em dias): Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa em dias. Leve em consideração o ano com 365 dias e o mês com 30. (Ex: 3 anos, 2 meses e 15 dias = 1170 dias.)</li><br>
+        <li>Questão 2 (Média): Fazer um programa que imprima a média aritmética dos números 8,9 e 7. A média dos números 4, 5 e 6. A soma das duas médias. A média das médias.</li><br>
+        <li>Questão 3 (Saldo com reajuste): Informar um saldo e imprimir o saldo com reajuste de 1%.</li><br>
+        <li>Questão 4 (valor peças): Escrever um algoritmo que lê:<br>
+            - a porcentagem do IPI a ser acrescido no valor das peças<br>
+            - o código da peça 1, valor unitário da peça 1, quantidade de peças 1<br>
+            - o código da peça 2, valor unitário da peça 2, quantidade de peças 2<br>
+            O algoritmo deve calcular o valor total a ser pago e apresentar o resultado.<br>
+            Fórmula : (valor1 * quant1 + valor2 * quant2) * (IPI/100 + 1)</li><br>
+        <li>Questão 5 (SalarioMinimo): Crie um algoritmo que leia o valor do salário mínimo e o valor do salário de um usuário, calcule a quantidade de salários mínimos esse usuário ganha e imprima o resultado. (1SM=R$788,00)</li><br>
+        <li>Questão 6 (AntecessorSucessor): Desenvolva um algoritmo em Java que leia um número inteiro e imprima o seu antecessor e seu sucessor.</li>
+    </ul>
+</details>
