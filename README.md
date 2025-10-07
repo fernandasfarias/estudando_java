@@ -1,4 +1,4 @@
-# Apredendo a linguagem de programação Java
+# Apredendo Java
 
 ## Parte 1: Entrada e Saída de dados
 <details>
@@ -17,3 +17,25 @@
         <li>Questão 6 (AntecessorSucessor): Desenvolva um algoritmo em Java que leia um número inteiro e imprima o seu antecessor e seu sucessor.</li>
     </ul>
 </details>
+
+## Parte 2: Estruturas de Controle
+
+## Parte 3: Arrays e Strings
+
+## Parte 4: Métodos
+
+## Parte 5: Classes e Objetos
+
+## Parte 6: Herança e Polimorfismo
+
+## Parte 7: Coleções e Generics
+
+## Parte 8: Exceções
+
+## Parte 9: Arquivos
+
+## Parte 10: Threads/concorrência
+
+## Parte 11: Bibliotecas/APIs
+
+## Parte 12: Boas práticas e Design Patterns
