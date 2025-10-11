@@ -19,6 +19,13 @@
 </details>
 
 ## Parte 2: Estruturas de Controle
+<details>
+    <summary>Estruturas de controle / repetição </summary>
+    <ul>
+        <li>Questão 1  - Quadrante (Questão retirada do juíz online 'Beecrowd'): Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no sistema cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será encerrado quando pelo menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem alguma).<br><strong>Entrada</strong>: A entrada contém vários casos de teste. Cada caso de teste contém 2 valores inteiros.<br><strong>Saída</strong>: Para cada caso de teste mostre em qual quadrante do sistema cartesiano se encontra a coordenada lida, conforme o exemplo.
+    </ul>
+
+</details>
 
 ## Parte 3: Arrays e Strings
 
